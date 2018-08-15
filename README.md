@@ -1,4 +1,4 @@
-# University Tetris
+# University Project - Tetris
 A project from my second year at university. A version of Tetris to demonstrate the ability to develope an application to specific instructions within the Java programming language. As such, by default this version of Tetris makes use of an alternate scoring system as defined by the project requirements. As an additional feature, a more traditional scoring system can be accessed from the game over state by pressing the "S" key.
 
 ### Controls
